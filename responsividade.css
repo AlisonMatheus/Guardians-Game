@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px) {
+    .login_body {
+        width: 440px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    header img {
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+    }
+
+    .login_body {
+        width: 90%;
+        height: 50%;
+    }
+}
