@@ -142,6 +142,10 @@ body {
     color: #737373;
 }
 
+.login_facebook img {
+    cursor: pointer;
+}
+
 .sign_up {
     color: #737373;
     font-size: 15px;
